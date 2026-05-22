@@ -1,88 +1,225 @@
-# Hi there, I'm Jaisheesh! 👋
+<h1 align="center">Hi 👋, I'm Jaisheesh</h1>
 
-I am a Pre-Final Year Computer Science & Engineering student at **IIITM Gwalior** with a strong passion for **Backend Engineering**, **Distributed Systems**, and **Cloud Native Technologies**. I love building scalable microservices and exploring the intersection of System Design and Generative AI.
+<h3 align="center">
+Backend Engineer • Open Source Contributor • Cloud Native Enthusiast
+</h3>
 
----
+<p align="center">
+Building scalable backend systems, distributed architectures, and Kubernetes-native applications.
+</p>
 
-### 🚀 About Me
-
-- 🎓 **Education:** B.Tech in Computer Science & Engineering from IIITM Gwalior.
-- 💻 **Focus:** currently deep-diving into **Golang**, **Kubernetes**, and **System Design**.
-- 🧠 **Interests:** I enjoy solving algorithmic problems and have a sustained interest in Machine Learning and Deep Learning.
-- 🤝 **Collaboration:** I have experience working in Agile environments, contributing to code reviews, and collaborating across frontend and backend teams.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Architecture**
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-blue?style=for-the-badge)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-orange?style=for-the-badge&logo=argo&logoColor=white)
-
-**Databases & Search**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Software Developer Intern @ Coyesco**
-
-- **Authentication & Security:** Improved HTTP authentication flows and strengthened JWT-based session management (including rotation & revocation).
-- **Migration Strategy:** Contributed to migrating a monolithic frontend into modular services, integrating RESTful APIs to streamline feature integration.
-- **Performance Optimization:** Reworked client-side data filtering using AG-Grid and AG-Charts to reduce redundant API calls and improve UI responsiveness.
-- **Code Quality:** Applied design patterns to streamline architecture, facilitating faster onboarding and more efficient code reviews.
-
----
-
-### 💡 Featured Projects
-
-**Student Management System (DevOps & Full Stack)**
-_Tech: Golang, React, Docker, Kubernetes, ArgoCD, AWS EKS_
-
-- A full-stack CRUD system featuring a Go REST API and a responsive React frontend.
-- Implemented a complete GitOps pipeline using GitHub Actions and ArgoCD for automated deployments to AWS EKS.
-- Secured routing using NGINX Ingress and TLS, with a focus on code quality via linting and request validation.
-
-**Go Microservices Platform**
-_Tech: Golang, gRPC, GraphQL, PostgreSQL, Elasticsearch_
-
-- Engineered a modular microservices architecture utilizing gRPC for high-performance service-to-service communication.
-- Built a unified GraphQL API gateway that integrates PostgreSQL for transactions and Elasticsearch for search capabilities.
-- Orchestrated the local development stack using Docker Compose for rapid setup and debugging.
-
-**ConvoPro (Generative AI)**
-_Tech: Python, LLM Orchestration, LlamaIndex, Streamlit_
-
-- Designed a backend service to orchestrate document retrieval and model selection across multiple LLMs.
-- Built efficient retrieval pipelines (RAG) using LlamaIndex and integrated local model hosting to optimize resource usage.
-
----
-
-### 🏆 Achievements
-
-- **Competitive Programming:** Rated **3-Star on CodeChef** and **Pupil on Codeforces**. Solved hundreds of problems across LeetCode and GFG, focusing on advanced algorithms.
-- **Scholarship:** Awarded the Merit-cum-Means (MCM) Scholarship for academic excellence at IIITM Gwalior.
-- **Certification:** Completed specialized training in Generative AI, RAG, and AI Agents.
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/balagowni-jaisheesh-venkat-goud-112544289/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
   <a href="mailto:jaisheesh.venkat@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://codolio.com/profile/Jaisheesh" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge&logo=code&logoColor=white" alt="Codolio">
+  <a href="https://www.linkedin.com/in/balagowni-jaisheesh-venkat-goud-112544289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/Jaisheesh-2006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://codolio.com/profile/Jaisheesh">
+    <img src="https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Final Year **Computer Science & Engineering** student at **IIITM Gwalior**.
+
+💼 Currently an **Open Source Contributor @ Google Summer of Code 2026 (CNCF/kpt)**, contributing to Kubernetes-native tooling and improving reliability in production workflows.
+
+⚡ Passionate about:
+
+- Backend Engineering
+- Distributed Systems
+- Cloud Native Infrastructure
+- Kubernetes & DevOps
+- System Design
+- Generative AI Systems
+
+🧠 Strong problem-solving foundation with **750+ DSA problems solved (C++)**, focused on building reliable, scalable, and maintainable systems.
+
+🤝 I enjoy collaborating in engineering teams, contributing to open source, reviewing code, and building developer-focused infrastructure.
+
+---
+
+## 💼 Experience
+
+### 🔹 Open Source Contributor — Google Summer of Code 2026 @ CNCF/kpt
+
+**Tech:** Golang • Kubernetes • YAML • Open Source • CI/CD
+
+- Engineered **strict metadata validation** in the `kpt` CNCF toolchain using Go, preventing silent Kubernetes configuration failures and improving deployment reliability.
+- Refactored inventory tracking with **deterministic reconciliation logic**, enabling consistent Kubernetes resource synchronization across environments.
+- Fixed upgrade regressions by preserving **user-authored Kptfile formatting/comments**, improving contributor experience and deployment stability.
+
+### 🔹 Software Developer Intern — Coyesco
+
+**Tech:** React.js • Node.js • Async Systems • APIs
+
+- Built performant production interfaces for real-time workflows while collaborating across engineering and UX teams.
+- Improved asynchronous request handling, reducing **response latency by 25%**.
+- Developed a **low-latency AI streaming interface**, improving real-time responsiveness by **30%**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,cpp,python,javascript,typescript,nodejs" />
+</p>
+
+### Backend & Distributed Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,graphql,express" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Cloud • DevOps • Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo" />
+  <img src="https://img.shields.io/badge/CI%2FCD-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitOps-blue?style=for-the-badge" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Computer Science Foundations
+
+`Data Structures & Algorithms` • `OOP` • `Operating Systems` • `DBMS` • `Computer Networks` • `System Design`
+
+---
+
+## 🌟 Featured Projects
+
+### 💰 ChitSetu — Distributed Fintech Platform
+
+**Tech:** Golang • Next.js • Kubernetes • Docker • MongoDB • CI/CD
+
+🔗 Repo:  
+https://github.com/Jaisheesh-2006/ChitSetu
+
+- Built a distributed fintech platform supporting **KYC onboarding, chit fund management, and financial record handling**.
+- Orchestrated containerized services on **Kubernetes**, enabling resilient distributed execution.
+- Automated deployments with CI/CD to support rapid iteration.
+
+---
+
+### ☁️ Academia — Cloud Native GitOps SaaS Platform
+
+**Tech:** Golang • AWS EKS • Helm • ArgoCD • Docker
+
+🔗 Repo:  
+https://github.com/Jaisheesh-2006/Cloud-Native-GitOps-SaaS-Platform
+
+- Designed modular backend services with **RESTful architecture** and optimized containerization.
+- Built an **automated GitOps deployment workflow** on AWS EKS using Helm and ArgoCD.
+- Focused on scalability, maintainability, and deployment consistency.
+
+---
+
+### ⚡ Go Microservices Platform
+
+**Tech:** Golang • gRPC • GraphQL • PostgreSQL
+
+🔗 Repo:  
+https://github.com/Jaisheesh-2006/GoMircroservices
+
+- Engineered a **low-latency microservices architecture** for scalable service communication.
+- Integrated a **GraphQL API gateway** with PostgreSQL-backed persistence.
+- Optimized concurrent request handling across distributed services.
+
+---
+
+## 🏆 Achievements
+
+🏅 **Google Summer of Code 2026 — CNCF/kpt**
+
+🏅 **HackByte 4.0 (MLH)** — Dual Sponsor Track Winner (**Superplane & Vultr**) among **120+ teams**
+
+🏅 **CodeChef 3⭐ (1604)** & **Codeforces Pupil**
+
+🏅 **750+ DSA Problems Solved**
+
+🏅 **Merit-cum-Means Scholarship (2024–2026)** — IIITM Gwalior
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img 
+    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaisheesh-2006&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaisheesh-2006&theme=tokyonight" 
+  />
+
+  <img 
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaisheesh-2006&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaisheesh-2006&theme=tokyonight" 
+  />
+
+  <img 
+    width="47%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaisheesh-2006&theme=tokyonight&utcOffset=5.5" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Jaisheesh-2006&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaisheesh-2006/Jaisheesh-2006/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+
+
+<p align="center">
+  <i>Building reliable systems, one service at a time ⚡</i>
 </p>
