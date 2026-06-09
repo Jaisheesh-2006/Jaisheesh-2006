@@ -112,46 +112,8 @@ Building scalable backend systems, distributed architectures, and Kubernetes-nat
 
 `Data Structures & Algorithms` • `OOP` • `Operating Systems` • `DBMS` • `Computer Networks` • `System Design`
 
----
 
-## 🌟 Featured Projects
 
-### 💰 ChitSetu — Distributed Fintech Platform
-
-**Tech:** Golang • Next.js • Kubernetes • Docker • MongoDB • CI/CD
-
-🔗 Repo:  
-https://github.com/Jaisheesh-2006/ChitSetu
-
-- Built a distributed fintech platform supporting **KYC onboarding, chit fund management, and financial record handling**.
-- Orchestrated containerized services on **Kubernetes**, enabling resilient distributed execution.
-- Automated deployments with CI/CD to support rapid iteration.
-
----
-
-### ☁️ Academia — Cloud Native GitOps SaaS Platform
-
-**Tech:** Golang • AWS EKS • Helm • ArgoCD • Docker
-
-🔗 Repo:  
-https://github.com/Jaisheesh-2006/Cloud-Native-GitOps-SaaS-Platform
-
-- Designed modular backend services with **RESTful architecture** and optimized containerization.
-- Built an **automated GitOps deployment workflow** on AWS EKS using Helm and ArgoCD.
-- Focused on scalability, maintainability, and deployment consistency.
-
----
-
-### ⚡ Go Microservices Platform
-
-**Tech:** Golang • gRPC • GraphQL • PostgreSQL
-
-🔗 Repo:  
-https://github.com/Jaisheesh-2006/GoMircroservices
-
-- Engineered a **low-latency microservices architecture** for scalable service communication.
-- Integrated a **GraphQL API gateway** with PostgreSQL-backed persistence.
-- Optimized concurrent request handling across distributed services.
 
 ---
 
