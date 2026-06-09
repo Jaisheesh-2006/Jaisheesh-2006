@@ -33,11 +33,12 @@ Building scalable backend systems, distributed architectures, and Kubernetes-nat
 
 ⚡ Passionate about:
 
-- Backend Engineering
+- Full stack Engineering
 - Distributed Systems
 - Cloud Native Infrastructure
 - Kubernetes & DevOps
 - System Design
+- ML Lifecycle
 - Generative AI Systems
 
 🧠 Strong problem-solving foundation with **750+ DSA problems solved (C++)**, focused on building reliable, scalable, and maintainable systems.
@@ -82,6 +83,16 @@ Building scalable backend systems, distributed architectures, and Kubernetes-nat
   <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge" />
 </p>
+
+### Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CatBoost-FFD500?style=for-the-badge" />
+</p>
+
 
 ### Frontend
 
