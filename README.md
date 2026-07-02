@@ -140,46 +140,7 @@ Building scalable backend systems, distributed architectures, and Kubernetes-nat
 
 🏅 **Merit-cum-Means Scholarship (2024–2026)** — IIITM Gwalior
 
----
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img 
-    width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaisheesh-2006&theme=tokyonight" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaisheesh-2006&theme=tokyonight" 
-  />
-
-  <img 
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jaisheesh-2006&theme=tokyonight" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaisheesh-2006&theme=tokyonight" 
-  />
-
-  <img 
-    width="47%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaisheesh-2006&theme=tokyonight&utcOffset=5.5" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Jaisheesh-2006&theme=tokyonight&hide_border=true" 
-  />
-</p>
 
 ---
 
